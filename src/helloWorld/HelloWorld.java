@@ -2,9 +2,9 @@ package helloWorld;
 
 import javax.jws.WebService;
 
-//v3
+//v4
 
-@WebService
+@WebService(name="newname")
 public class HelloWorld {
 
   public void constructor(){
